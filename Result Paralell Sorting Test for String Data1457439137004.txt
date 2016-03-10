@@ -1,0 +1,4 @@
+String length = 10
+Size of String test data = 500000
+Number of Thread = 2
+For sort algorithm SelectionSort sortTime = 925.91

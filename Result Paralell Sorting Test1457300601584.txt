@@ -1,0 +1,16 @@
+6Type of test data is String
+Size of test data = 10000
+Number of Thread = 10000
+For sort algorithm SelectionSort sortTime = 0.498
+For sort algorithm InsertionSort sortTime = 0.496
+For sort algorithm InsertionXSort sortTime = 0.342
+For sort algorithm BinaryInsertionSort sortTime = 0.195
+For sort algorithm MergeSort sortTime = 0.016
+For sort algorithm MergeBUSort sortTime = 0.023
+For sort algorithm MergeXSort sortTime = 0.009
+For sort algorithm QuickSort sortTime = 0.016
+For sort algorithm QuickXSort sortTime = 0.016
+For sort algorithm Quick3waySort sortTime = 0.011
+For sort algorithm ShellSort sortTime = 0.017
+For sort algorithm HeapSort sortTime = 0.019
+For sort algorithm JavaSort sortTime = 0.013

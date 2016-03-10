@@ -1,0 +1,4 @@
+Type of test data is String
+Size of test data = 100000
+Number of Thread = 1
+For sort algorithm SelectionSort sortTime = 117.85
